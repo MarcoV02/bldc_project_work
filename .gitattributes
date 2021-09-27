@@ -16,7 +16,7 @@
 *.slmx binary
 *.sltx binary
 *.slxc binary
-*.slx binary merge=mlAutoMerge
+*.slx matlab
 *.slxp binary
 
 ## Other common binary file types
